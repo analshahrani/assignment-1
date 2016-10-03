@@ -1,4 +1,4 @@
-#DATA FLOW DIAGRAM DICTIONARY 
+#DFD Dictionary
 
 1.Developer: Usually a technical person (Software Developer) who is developing the software package
 2. Software Package Manager:  It is a process which is used to detect OSS components in the developed Software package. It interacts with the internet to verify if the SW package has any OSS components
