@@ -1,5 +1,5 @@
 #USE CASE 1:
-<b>Title:</b> Determine License and Vulnerability Information of SW Packages 
+**Title**: Determine License and Vulnerability Information of SW Packages 
 <b>1.Primary Actor:</b> Corporate Manager
 <b>2.Goal in Context:</b> The corporate manager is able to determine license and vulnerability from information from provided SW project and project information 
 <b>3.Stakeholders:</b> 
