@@ -1,19 +1,19 @@
 #USE CASE 1:
 <b>Title:</b> Determine License and Vulnerability Information of SW Packages 
-1.Primary Actor: Corporate Manager
- 2.Goal in Context: The corporate manager is able to determine license and vulnerability from information from provided SW project and project information 
-3.Stakeholders: 
+<b>1.Primary Actor:</b> Corporate Manager
+<b>2.Goal in Context:</b> The corporate manager is able to determine license and vulnerability from information from provided SW project and project information 
+<b>3.Stakeholders:</b> 
 Corporate Manager: To receive clear and relevant project information 
 Corporate Developer: To provide the relevant file/package information 
 Project Owner: To clearly understand corporate manager decisions to green/red light a project 
 NIST system: Provides Licence and vulnerability information of SW package 
-4.Preconditions:
+<b>4.Preconditions:</b>
 a. Relevant SW file/package information sent to be checked for OSS licences 
 b. Proper project policy document has been provided to determine licence usage. 
 c. Secure Internet connection is present. 
-5.Main Success Scenario: Corporate manager receives accurate license and vulnerability information for the requested project packages 
-6.Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages 
-7.Trigger: Corporate Developer/Manager uploads SW package to which license and vulnerability information is provided. 
+<b>5.Main Success Scenario:</b> Corporate manager receives accurate license and vulnerability information for the requested project packages 
+<b>6.Failed End Conditions:</b> Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages 
+<b>7.Trigger:</b> Corporate Developer/Manager uploads SW package to which license and vulnerability information is provided. 
 
 
 #USE CASE 2:
