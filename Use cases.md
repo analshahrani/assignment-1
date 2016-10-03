@@ -1,5 +1,5 @@
 #USE CASE 1:
-Title: Determine License and Vulnerability Information of SW Packages 
+<b>Title:</b> Determine License and Vulnerability Information of SW Packages 
 1.Primary Actor: Corporate Manager
  2.Goal in Context: The corporate manager is able to determine license and vulnerability from information from provided SW project and project information 
 3.Stakeholders: 
