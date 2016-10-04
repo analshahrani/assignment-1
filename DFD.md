@@ -1,2 +1,2 @@
-![a] (https://cloud.githubusercontent.com/assets/21369271/19030055/e82156e6-8910-11e6-92cc-5e4ed730b37f.PNG) 
+![a] (https://cloud.githubusercontent.com/assets/21369271/19063905/4c8ae406-89cc-11e6-9c71-9f581289251e.jpg) 
 
