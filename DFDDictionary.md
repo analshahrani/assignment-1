@@ -6,6 +6,7 @@ This file holds all definitions about the DFD Diagram.
 
 • OSS Community: Represents open source repositories to which source code taken from the community is re-published.
 
+
 ## Internal Entities:
 
 •	Corporate Developer: Usually a technical person (Software Developer) who is developing the software package.
@@ -19,6 +20,10 @@ This file holds all definitions about the DFD Diagram.
 •	Corporate Manager: The manager is the individual who oversees the whole project. He can submit SW package requests like a developer. He can also submit a SW package and submit or modify policy documents.
 
 •	SW package licence and vulnerability policy database: It is a database, where corporate policy as to what are acceptable licences and vulnerability thresholds.
+
+•	SW Package Licence and vulnerability policy database: Data store that holds the company's policy information.
+
+•	OSS Package Datastore: It is a Datastore that holds the results of licence information of OSS components in an SW package. 
 
 ## Data Flow:
 
@@ -40,11 +45,6 @@ This file holds all definitions about the DFD Diagram.
 
 •	Policy Info: It is the policy information related to the project request sent by a corporate manager.
 
-## Data Stores:
-
-•	SW Package Licence and vulnerability policy database: Data store that holds the company's policy information.
-
-•	OSS Package Datastore: It is a Datastore that holds the results of licence information of OSS components in an SW package. 
 
 ## Processes:
 
