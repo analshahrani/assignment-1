@@ -4,7 +4,7 @@
 
 1.Primary Actor: Corporate Manager
 
-2.Goal in Context:The corporate manager is able to determine license and vulnerability from information from provided SW project and project information 
+2.Goal in Context:The corporate manager is able to determine license and vulnerability from information from provided SW project information 
 
 3.Stakeholders:
 Corporate Manager: To receive clear and relevant project information 
@@ -16,16 +16,18 @@ NIST system: Provides Licence and vulnerability information of SW package
 a. Relevant SW file/package information sent to be checked for OSS licences 
 b. Proper project policy document has been provided to determine licence usage. 
 c. Secure Internet connection is present. 
+d. License and Vulnerability Database is up to date. 
 
 5.Main Success Scenario:Corporate manager receives accurate license and vulnerability information for the requested project packages 
 
 6.Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages 
 
-7.Trigger: Corporate Developer/Manager uploads SW package to which license and vulnerability information is provided. 
+7.Trigger: Corporate Manager uploads SW project request to which license and vulnerability information is provided. 
 
 
 ## USE CASE 2:
-# Title: Manage SW project Information	 
+# Title: Manage SW project Information	 (This is not a use case supported by your DFD at the moment -- also this is not something that I ask for in the assignment). 
+
 1.Primary Actor:Corporate Manager 
 
 2.Goal in Context: The OSS licence database check process interacts with the resources in the internet to find OSS components in the SW package
@@ -46,7 +48,7 @@ b. Secure Internet connection is present.
 
 
 ## USE CASE 3:
-# Title:Manage SW project Information	
+# Title:Manage SW project Information	(Same)
 
 1.Primary Actor: Corporate Manager
 
