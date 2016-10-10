@@ -1,12 +1,15 @@
 This file holds all definitions about the DFD Diagram.
 
-There are only External Entities in this DFD. Don't confuse entities with datastores. 
 
 ## External Entities:
 
 • National Vulnerability Database: National Institute of Standards and Technology's (NIST): NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol(SCAP). This data enables automation of vulnerability management, security measurement, and compliance. NVD includes databases of security checklists, security related software flaws, misconfigurations, product names, and impact metrics.
 
 • OSS Community: Represents open source repositories to which source code taken from the community is re-published.
+
+•	SW Package Licence and vulnerability policy database: Data store that holds the company's policy information.
+
+•	OSS Package Datastore: It is a Datastore that holds the results of licence information of OSS components in an SW package.
 
 ## Internal Entities:
 
@@ -42,11 +45,7 @@ There are only External Entities in this DFD. Don't confuse entities with datast
 
 •	Policy Info: It is the policy information related to the project request sent by a corporate manager.
 
-## Data Stores:
-
-•	SW Package Licence and vulnerability policy database: Data store that holds the company's policy information.
-
-•	OSS Package Datastore: It is a Datastore that holds the results of licence information of OSS components in an SW package. 
+ 
 
 ## Processes:
 
