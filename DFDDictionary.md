@@ -1,5 +1,7 @@
 This file holds all definitions about the DFD Diagram.
 
+There are only External Entities in this DFD. Don't confuse entities with datastores. 
+
 ## External Entities:
 
 • National Vulnerability Database: National Institute of Standards and Technology's (NIST): NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol(SCAP). This data enables automation of vulnerability management, security measurement, and compliance. NVD includes databases of security checklists, security related software flaws, misconfigurations, product names, and impact metrics.
